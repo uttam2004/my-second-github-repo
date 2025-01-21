@@ -1,4 +1,15 @@
-div{
+.ab{
+    background-color: aqua;
+}
+.cd{
     background-color: bisque;
-    
+}
+.ef{
+    background-color: blueviolet;
+}
+.name{
+    color: red;
+}
+p{
+   color: blue; 
 }
